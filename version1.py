@@ -125,4 +125,4 @@ def main(fileName, dateColumn):
 fileLocation = '/content/drive/My Drive/CSC 548/ukecommerce.csv'
 nameOfColumnWithDate = "InvoiceDate"
 
-main(file)
+main(fileLocation, nameOfColumnWithDate)
