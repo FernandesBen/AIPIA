@@ -22,6 +22,7 @@ Input Interface
 Output Interface
 - csv (date, predictions)
   - predictions for the next 3 day/month/year
+- ERROR
   
   
 Ex. text file for revenue
