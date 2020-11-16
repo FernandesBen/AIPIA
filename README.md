@@ -25,8 +25,8 @@ Output Interface
 - ERROR
   
   
-Ex. text file for revenue <br>
-dateColumnName revenue volumeColumnName priceColumnName day
+Ex. csv file for revenue <br>
+revenue, dateColumnName, volumeColumnName, priceColumnName, day
 
-Ex. text file for inventory <br>
-dateColumnName inventory volumeColumnName nameOfInventoryItemColumn nameOfInventoryItem month
+Ex. csv file for inventory <br>
+inventory, dateColumnName, volumeColumnName, nameOfInventoryItemColumn, nameOfInventoryItem, month
