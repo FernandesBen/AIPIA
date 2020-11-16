@@ -26,7 +26,7 @@ Output Interface
   
   
 Ex. csv file for revenue <br>
-revenue, dateColumnName, volumeColumnName, priceColumnName, day
+dateColumnName, volumeColumnName, priceColumnName, day
 
 Ex. csv file for inventory <br>
-inventory, dateColumnName, volumeColumnName, nameOfInventoryItemColumn, nameOfInventoryItem, month
+dateColumnName, volumeColumnName, nameInventoryColumn, nameInventoryItem, month
