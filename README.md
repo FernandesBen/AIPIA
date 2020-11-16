@@ -26,7 +26,7 @@ Output Interface
   
   
 Ex. text file for revenue <br>
-/input/file/location.csv dateColumnName revenue volumeColumnName priceColumnName day /output/file/location.csv
+dateColumnName revenue volumeColumnName priceColumnName day
 
 Ex. text file for inventory <br>
-/input/file/location.csv dateColumnName inventory volumeColumnName nameOfInventoryItemColumn nameOfInventoryItem month /output/file/location.csv
+dateColumnName inventory volumeColumnName nameOfInventoryItemColumn nameOfInventoryItem month
